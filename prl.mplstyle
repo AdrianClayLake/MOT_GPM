@@ -1,0 +1,40 @@
+# Style sheet for plots
+# """Adrian Lake, 51376144"""
+# figure.figsize: 12.8, 8.8
+#axes.labelsize: 24
+#xtick.labelsize: 22
+#ytick.labelsize: 22
+#legend.fontsize: 24
+#lines.markersize: 17
+
+
+axes.labelsize: 16
+xtick.labelsize: 14
+ytick.labelsize: 14
+legend.fontsize: 16
+lines.markersize: 7
+lines.color: black
+patch.facecolor: gray
+patch.edgecolor: black
+
+text.color: black
+
+axes.facecolor: white
+axes.edgecolor: black
+axes.labelcolor: black
+# black to light gray
+axes.prop_cycle: cycler('color', ['0.00', '0.40', '0.60', '0.70'])
+
+xtick.color: black
+ytick.color: black
+
+grid.color: black
+
+figure.facecolor: white
+figure.edgecolor: white
+
+image.cmap: gray
+
+savefig.facecolor: white
+savefig.edgecolor: white
+
