@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 #title           :mobileAlert.py
-#description     : notifies remote user
+#description     : Notifies remote user
 #author          :
 #email           :
 #date            :09.01.2018
-#version         :2
-#notes           :A patched version of the non ADC code to utilize the MC USB 16808 ADC
+#version         :
+#notes           :
 #python_version  :3.6 (Tested)
 #==============================================================================
 

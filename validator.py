@@ -1,9 +1,15 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  7 10:24:49 2018
+# title           :validator.py
+# description     :Workspace for validating GPR Model
+# author          :
+# email           :
+# date            :09.01.2018
+# version         :1
+# usage           :
+# notes           :
+# python_version  :
+#==============================================================================
 
-@author: Adrian
-"""
 
 from sklearn.model_selection import cross_validate
 from sklearn.metrics import recall_score

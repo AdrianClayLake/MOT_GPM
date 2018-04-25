@@ -1,5 +1,13 @@
-# -*- coding: utf-8 -*-
-
+#!/usr/bin/env python
+#title           :manualControl.py
+#description     :Workspace for manual manipulation of MOT
+#author          :
+#email           :
+#date            :09.01.2018
+#version         :2
+#notes           :
+#python_version  :3.6 (Tested)
+#==============================================================================
 from __future__ import print_function
 
 import socket

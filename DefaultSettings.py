@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+#title           :DefaultSettings.py
+#description     :Defualt MOT settings
+#author          :
+#email           :
+#date            :09.01.2018
+#version         :2
+#notes           :
+#python_version  :3.6 (Tested)
+#==============================================================================
 defaults={
         #Cooling Settings
         'detuning':30.,

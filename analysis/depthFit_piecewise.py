@@ -1,9 +1,13 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar  2 11:08:51 2018
-
-@author: Adrian
-"""
+#!/usr/bin/env python
+#title           :depthFit_piecewise.py
+#description     :WIP fit function for more stable fitting
+#author          :
+#email           :
+#date            :09.01.2018
+#version         :2
+#notes           :
+#python_version  :3.6 (Tested)
+#==============================================================================
 
 import numpy as np
 import matplotlib.pyplot as pl

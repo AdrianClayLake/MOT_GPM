@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 16 17:52:43 2017
+# title           :mot_ON.py
+# description     :Enable MOT undefnitly 
+# author          :Adrian Lake
+# email           :
+# date            :09.01.2018
+# version         :1
+# usage           :
+# notes           :This script still has to be converted to a non mot class version but its function is simple and non vital to data collection, low priority
+# python_version  :
+#==============================================================================
 
-@author: QDG
-
-Notes:
-    This script still has to be converted to a non mot class version
-    but its function is simple and non vital to data collection, low priority
-
-"""
 
 
 from lib.MOt_fpga_class_adc import MOT
